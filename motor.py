@@ -1,7 +1,7 @@
 import csdl
 import python_csdl_backend
 
-class mach(csdl.Model):
+class motor(csdl.Model):
     def initialize(self):
         pass
     def define(self):
